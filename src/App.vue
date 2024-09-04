@@ -142,7 +142,7 @@ const paymentOptions = [
     <PageSection 
       :bgColor="bgColors[0]"
       title="Leo's Story"
-      imageUrl="/src/assets/img/leo.png"
+      imageUrl="./assets/leo.png"
     >
     <div class="my-1">My aunt and uncle, Lourdes and Leo Kapoor, travelled from India to Canada in June to visit relatives and to take some of the ashes of my late aunt Dorothy back to India.</div>
     <div class="my-1">It was their first time visiting Canada. They initially applied for a visit visa to attend the funeral of my aunt Dorothy Soares, who passed away from cancer in February 2024. However, they were unable to get the Canada visa in time for the funeral.</div>
