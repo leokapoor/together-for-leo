@@ -26,4 +26,4 @@ const handleClick = () => {
       <div>{{ description }}</div>
     </div>
   </li>
-</template>
+</template> 

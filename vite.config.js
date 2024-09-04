@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/together-for-leo/",
+  //base: "/together-for-leo/",
   plugins: [vue()],
 })
