@@ -30,7 +30,7 @@
             <li><strong>Branch:</strong> SHOP NO. 1 & 2COSMOS TOWERS, NEAR GOVERNMENT BUILDING COMPLEX, MAPUSA, GOA, 403507</li>
           </ul>
         </div>
-        <p class="my-4">Please send an email to <a href="mailto:leomedicalcare@gmail.com">leomedicalcare@gmail.com</a> stating that you have initiated a transfer to <strong>HDFC</strong.  Include your name, amount and date of the transfer in the email so we can monitor the incoming funds. Ensure the purpose of transfer is kept blank.</p>
+        <p class="my-4">Please send an email to <a href="mailto:leomedicalcare@gmail.com">leomedicalcare@gmail.com</a> stating that you have initiated a transfer to <strong>HDFC</strong>.  Include your name, amount and date of the transfer in the email so we can monitor the incoming funds. Ensure the purpose of transfer is kept blank.</p>
       </div>`},{id:3,title:"Option 3: Bank transfer to Canadian bank account",subtitle:null,description:null,content:`<div>
         <h3 class="text-center">Bank Transfer to Canadian Bank</h3>
         <p class="my-4">Please use the following bank information to transfer funds to our Canadian Account:</p>
@@ -43,7 +43,7 @@
             <li><strong>Account Number:</strong> 6448166</li>
           </ul>
         </div>
-        <p>Please send an email to <a href="mailto:leomedicalcare@gmail.com">leomedicalcare@gmail.com</a> stating that you have initiated a transfer to <strong>TD Bank</strong>. Include your name, amount and date of the transfer in the email so we can monitor the incoming funds. You can state ‘Leo Medical Expenses’ if a description is required.</p>
+        <Please class="my-4">Please send an email to <a href="mailto:leomedicalcare@gmail.com">leomedicalcare@gmail.com</a> stating that you have initiated a transfer to <strong>TD Bank</strong>. Include your name, amount and date of the transfer in the email so we can monitor the incoming funds. You can state ‘Leo Medical Expenses’ if a description is required.</p>
       </div>`},{id:4,title:"Option 4: GoFundMe",subtitle:"(accepts Google Pay, Debit and Credit Card payments)",description:"For all other contributors located outside of India or Canada, or if your preference is to donate via credit card or Google Pay",content:`<div>
         <h3 class="text-center">Leo's GoFundMe Campaign</h3>
         <p class="my-4">Please follow this link to donate to the GoFundMe Campaign we've set up:</p>
