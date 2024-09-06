@@ -3,23 +3,23 @@
     "Data": [
         {
             "Type": "EFT (INR)",
-            "Value": "₹528,519"
+            "Value": "₹593,519"
         },
         {
             "Type": "Interac/EFT (CAD)",
-            "Value": "$3,000"
+            "Value": "$6,255"
         },
         {
             "Type": "GoFundMe (CAD)",
-            "Value": "$1,025"
+            "Value": "$5,865"
         },
         {
             "Type": "Total (CAD equivalent)",
-            "Value": "$12,550"
+            "Value": "$21,693"
         },
         {
             "Type": "Percentage of Goal",
-            "Value": "4.56%"
+            "Value": "7.89%"
         }
     ]
 }
