@@ -1,13 +1,13 @@
 {
-    "Date": "Sept 16, 2024",
+    "Date": "Sept 17, 2024",
     "Data": [
         {
             "Type": "EFT (INR)",
-            "Value": "₹1,192,019"
+            "Value": "₹1,417,019"
         },
         {
             "Type": "Interac/EFT (CAD)",
-            "Value": "$53,769"
+            "Value": "$53,919"
         },
         {
             "Type": "GoFundMe (CAD)",
@@ -15,11 +15,11 @@
         },
         {
             "Type": "Total (CAD equivalent)",
-            "Value": "$88,220"
+            "Value": "$91,999"
         },
         {
             "Type": "Percentage of Goal",
-            "Value": "32.08%"
+            "Value": "33.45%"
         }
     ]
 }
